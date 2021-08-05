@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include <WiFi.h>
 
 //Replace the next variables with your SSID/Password combination
 const char* ssid = "";
